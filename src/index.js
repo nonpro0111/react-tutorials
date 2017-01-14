@@ -1,9 +1,9 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import App from './App';
+import MessageApp from './message_app';
 import './index.css';
 
 ReactDOM.render(
-  <App />,
+  <MessageApp />,
   document.getElementById('root')
 );
